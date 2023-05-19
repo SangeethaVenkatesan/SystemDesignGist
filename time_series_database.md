@@ -1,6 +1,6 @@
 Time Series Database :Goku
 
-Goku - PinInterest's inhoue built time series database 
+Goku - PinInterest's inhouse built time series database 
 
 Why do we need this ?
 
